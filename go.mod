@@ -1,4 +1,4 @@
-module github.com/NurymGM/jwt-token
+module github.com/NurymGM/jwt-token		// Go + Gin + GORM + PostgreSQL + GoDotEnv + CompileDaemon + signin/login + jwt-token
 
 go 1.22.6
 
